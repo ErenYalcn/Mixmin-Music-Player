@@ -1,4 +1,4 @@
-# Mixmin-Music-Player
+# Mixmin-Music-Player (Yarışma Birincisidir Çokonat Kazanmıştır)
 * Yerel depolamadan şarkıları otomatik bulur.
 * Favorilerime şarkıları ekleyebiliriz.
 * Yenileme butonu çalışır durumda.
